@@ -218,7 +218,23 @@ All colours, fonts, and radii live in CSS variables at the top of `src/index.css
 Please keep the "explain, don't just answer" philosophy intact. Lumio should always help students understand, not shortcut their learning.
 
 ---
-
+### SCREENSHOTS
+<img width="1915" height="967" alt="Screenshot 2026-05-26 115550" src="https://github.com/user-attachments/assets/38a5b0ea-8726-4771-8b27-5ac106d102ab" />
+<img width="1919" height="865" alt="Screenshot 2026-05-26 115650" src="https://github.com/user-attachments/assets/e7f4d023-a631-49e7-936c-7954478b0105" />
+<img width="1919" height="869" alt="Screenshot 2026-05-26 115746" src="https://github.com/user-attachments/assets/a65aba16-b908-421f-9aff-22d4a7b21880" />
+<img width="1919" height="867" alt="Screenshot 2026-05-26 115757" src="https://github.com/user-attachments/assets/dd58ea17-5a6b-4917-b7f9-f00232003de6" />
+<img width="1915" height="858" alt="Screenshot 2026-05-26 115807" src="https://github.com/user-attachments/assets/4b3adb58-71ef-4f06-9c14-6b9193aac9ab" />
+<img width="1894" height="867" alt="Screenshot 2026-05-26 115816" src="https://github.com/user-attachments/assets/6404867a-0745-452d-9622-be0b15d7d81d" />
+<img width="1919" height="869" alt="Screenshot 2026-05-26 115825" src="https://github.com/user-attachments/assets/669013f6-0665-48ec-a4af-ec94390b5c49" />
+<img width="1010" height="830" alt="Screenshot 2026-05-26 115916" src="https://github.com/user-attachments/assets/2d8e1e92-b7a2-4b60-98b8-33d6062c6792" />
+<img width="906" height="818" alt="Screenshot 2026-05-26 115925" src="https://github.com/user-attachments/assets/dac34987-1cf5-4895-a5bc-0547a30e041a" />
+<img width="921" height="815" alt="Screenshot 2026-05-26 115935" src="https://github.com/user-attachments/assets/b0263697-c30b-404f-aded-ad503f6cfe91" />
+<img width="1919" height="867" alt="Screenshot 2026-05-26 120000" src="https://github.com/user-attachments/assets/34400869-5923-4718-99b4-7fd30764e116" />
+<img width="905" height="860" alt="Screenshot 2026-05-26 120019" src="https://github.com/user-attachments/assets/061eeba5-9dac-4f00-a793-9cf37d8a940a" />
+<img width="933" height="820" alt="Screenshot 2026-05-26 120031" src="https://github.com/user-attachments/assets/03a60264-42be-437e-b25b-c1f82f2c2241" />
+<img width="852" height="865" alt="Screenshot 2026-05-26 120055" src="https://github.com/user-attachments/assets/9bb4378e-d5ad-48ad-9b49-cef3cbd7d2a1" />
+<img width="887" height="545" alt="Screenshot 2026-05-26 120108" src="https://github.com/user-attachments/assets/ff3c2630-f25f-4f16-bcb2-acb3e23559b8" />
+---
 ## License
 
 MIT © 2025 Ipshita
