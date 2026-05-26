@@ -1,0 +1,6 @@
+{
+  "name": "AI Homework Study Tutor",
+  "description": "An advanced AI study tutor that analyzes homework problems from text or uploaded images, providing interactive step-by-step solutions, quiz modes, and flashcards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
