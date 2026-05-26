@@ -4,6 +4,7 @@
 
 Lumio is a premium AI-powered homework tutor built with React + Vite. It takes any STEM question — typed, photographed, or drawn — and returns a structured breakdown: step-by-step solution, a 12-year-old-friendly analogy, flashcards, a quiz, and a personalised study plan.
 
+LIVE LINK: https://lumio-study-tutor.vercel.app/
 ---
 
 ## Features
